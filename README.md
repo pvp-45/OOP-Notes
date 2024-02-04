@@ -4,11 +4,18 @@ Welcome to the repository of my OOP345 course notes. These notes were meticulous
 
 ## About OOP345
 
-OOP345 is a course designed to deepen the understanding of object-oriented programming concepts, design patterns, and advanced features of programming languages that support OOP. The course covers topics such as encapsulation, inheritance, polymorphism, and the use of various design patterns in software development.
+OOP345 is a course designed to deepen the understanding of object-oriented programming concepts, design patterns, and advanced features of programming languages that support OOP. 
 
 ## What's Inside
 
-This repository contains scanned versions of my handwritten notes, organized by topics. Each topic corresponds to a specific lecture or concept discussed in the OOP345 course. 
+This repository contains scanned versions of my handwritten notes, organized by topics. Each topic corresponds to a specific lecture or concept discussed in the OOP345 course. Here's what you can expect to find:
+
+- **Types**: Pointers, References and Arrays.
+- **Class Relationships**: Inheritance and Inclusion Polymorphism, ClassTemplates, Compositions, Aggregations and Associations.
+- **Processing**: Expressions, Functions, Error Handling.
+- **Standard Template Library**: Standard Library, Containers and Iterators, Algorithms, File Stream Objects. 
+- **Memory Model**: Raw Pointers, Smart Pointers.
+- **Performance**: Multithreading, Thread Classes
 
 ## How to Use These Notes
 
